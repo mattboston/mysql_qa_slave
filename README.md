@@ -19,3 +19,4 @@ Volume /dev/mapper/vg.db-db.snapshot1 snapshot mounted as /var/lib/mysql/data (Q
 Volume /dev/mapper/vg.db-db.snapshot2 snapshot mounted as /var/lib/mysql-slave/data (QA slave, snapshot of 3307)
 
 
+
